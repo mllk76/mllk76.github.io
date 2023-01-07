@@ -1,65 +1,136 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<title>ResortBorovoe</title>
-	<link rel="shortcut icon" href="icon.png" type="image/x-icon">
-</head>
+body{
+	background-color: #edf2f4;
+	font-family: century gothic;
+	color: #000814;
+}
 
-<body>
-	<div style="background-color: #8d99ae">
+.txt8{
+		font-size: 24px;
+}
 
-		<h1 class="txt0">Why resort Borovoe is the best place to relax in Kazakhstan?</
-		h1>
+.picture3{
+	display: flex;
+	border: 2px solid #000814;
+}
 
-	</div>
+.img5{
+	width: 200px;
+	height: 200px;
+	padding-left: 170px;
+	padding-top: 20px;
+}
 
-<div style="background-color: #8d99ae">
-<p class="txt8">Borovoye itself is located among the steppes of Northern Kazakhstan between the cities of Kokshetau and Astana. It is part of the Akmola region, located close to such regions of Russia as the Urals, Omsk, Tomsk, Tyumen and Novosibirsk regions.</p>
+.txt6{
+	padding-left: 15px;
+	font-size: 24px;
+	background-size: height 70px;
+	background-color: #8d99ae;
+}
 
-</div>
-<p></p>
-	<div class="picture3">
-		<img src="br0.jpg" class="img1">
-	
-		<ol>
-			<h1 class="txt6">What is the resort of Borovoe so famous for? </h1>
-			<li class="txt7">One of the main reasons for choosing the Borovoye resort for recreation is the excellent ecology, which contributes to a health-improving holiday.</li>
-			<li class="txt8">One of the main reasons for choosing the Borovoye resort for recreation is the excellent ecology, which contributes to a health-improving holiday.</li>
-			<img src="leaf.png" class="img5">
-				
-			</li>
-		</ol>
+.txt7{
+	padding-top: 15px;
+	font-size: 23px;
+}
 
-	</div>
-<div style="background-color: #8d99ae">
+.txt8{
+	padding-top: 15px;
+	font-size: 23px;
 
-	<h1 class="txt1">Sights of the resort village of Burabay.</h1>
+}
 
-</div>
-<ol>
-	<div style="background-color: #8d99ae">
-	<li><p class="txt9">Glade of Abylai Khan.</p> <img src="polyana.png" class="img2"></li>
-	<li><p class="txt10">Museum of Nature.</p> <img src="Museum.jpg" class="img3"></li>
-	<li><p class="txt11">Rock Okzhetpes.</p> <br><img src="rock.png" class="img4"></li>
-	</div>
-</ol>
+.txt9{
+	font-size: 30px;
+	padding-top: 10px;
+}
 
-<h1 class="txt2">Why are rats so cute?</h1>
+.txt10{
+	font-size: 30px;
+	padding-top: 10px;
+}
 
-	<p>The ‘scientific’ answer is because they have large eyes. Yes, in many cases, large eyes is the ONE thing that all ‘cute’ animals have in common. But in terms of the heart, rats are so cute because… well… they just ARE! Pet rats are so sweet and affectionate and smart and playful and FUN! They have huge sprays of whiskers and adorable ‘hands’ and such pretty fur.</p>
+.txt11{
+	font-size: 30px;
+	padding-top: 10px;
+}
 
-<img src="rats-sniff.gif" class="tenor-gif-embed">
 
-<h1 class="txt3">>>>Interesting facts about resort Burabay</h1>
+.txt0{
+	font-size: 27px;
 
-<div class="main">
-	<p class="bx1">Borovoye is a real oasis in the middle of the Kazakh steppe. This amazingly beautiful place is located on the territory of the Burabay park. The resort attracts guests with its pristine nature, clean air, lakes, picturesque mountain peaks, green coniferous forests. Locals call this corner "Kazakh Switzerland".</p>
-	<img class="bx2" src="br2.jpg">
-	<p class="bx3">The Burabay resort is a paradise for fishing enthusiasts. The entire tract is filled with hills densely overgrown with coniferous trees, similar to frozen fairy-tale giants, as well as 14 enchanted lakes, the deepest of which is Lake Shchuchye, its depth reaches 28 meters.</p>
+}
 
-</div>
 
-<p></p>
+.txt5{
+	padding-left: : 100px;
+}
 
-</html>
+.img1{
+	width:700px;
+	height: 500px;
+	padding-left: 30px
+
+}
+.img2{
+	width:400px;
+	height: 300px;
+	border: 3px solid #8d99ae
+}
+
+.img3{
+	width:400px;
+	height: 300px;
+	border: 3px solid #8d99ae
+}
+
+.img4{
+	width:400px;
+	height: 300px;
+	border: 3px solid #8d99ae
+}
+
+.txt1{
+	text-decoration: underline;
+}
+
+.txt2{
+	text-decoration: underline;
+	background-color: #8d99ae;
+}
+
+.txt3{
+	text-decoration: underline;
+}
+
+.tenor-gif-embed{
+	width:600px;
+	height: 500px;
+	padding-left: 350px;
+
+}
+
+.main {
+	display: flex;
+	padding-left: 50px;
+}
+.bx1{
+	width:400px;
+	height: 300px;
+	margin:10px;
+	background-color: #8d99ae;
+	font-size: 22px;
+	border: 2px solid #000814;
+}
+.bx2{
+	width:400px;
+	height: 300px;
+	margin:10px;
+}
+
+.bx3{
+	width:400px;
+	height: 300px;
+	margin:10px;
+	background-color: #8d99ae;
+	font-size: 22px;
+	border: 2px solid #000814;
+}
