@@ -39,8 +39,13 @@ body{
 }
 
 .txt9{
-	font-size: 23px;
-	padding-top: 20px;
+	font-size: 50px;
+	padding-top: 10px;
+}
+
+.txt10{
+	font-size: 50px;
+	padding-top: 10px;
 }
 
 .txt0{
