@@ -1,0 +1,125 @@
+body{
+	background-color: #edf2f4;
+	font-family: century gothic;
+	color: #000814;
+}
+
+.txt8{
+		font-size: 24px;
+}
+
+.picture3{
+	display: flex;
+	border: 2px solid #000814;
+}
+
+.img5{
+	width: 200px;
+	height: 200px;
+	padding-left: 170px;
+	padding-top: 20px;
+}
+
+.txt6{
+	padding-left: 15px;
+	font-size: 24px;
+	background-size: height 70px;
+	background-color: #8d99ae;
+}
+
+.txt7{
+	padding-top: 15px;
+	font-size: 23px;
+}
+
+.txt8{
+	padding-top: 15px;
+	font-size: 23px;
+
+}
+
+.txt9{
+	font-size: 23px;
+	padding-top: 15px;
+}
+
+.txt0{
+	font-size: 27px;
+
+}
+
+
+.txt5{
+	padding-left: : 100px;
+}
+
+.img1{
+	width:700px;
+	height: 500px;
+	padding-left: 30px
+
+}
+.img2{
+	width:400px;
+	height: 300px;
+	border: 3px solid #8d99ae
+}
+
+.img3{
+	width:400px;
+	height: 300px;
+	border: 3px solid #8d99ae
+}
+
+.img4{
+	width:400px;
+	height: 300px;
+	border: 3px solid #8d99ae
+}
+
+.txt1{
+	text-decoration: underline;
+}
+
+.txt2{
+	text-decoration: underline;
+	background-color: #8d99ae;
+}
+
+.txt3{
+	text-decoration: underline;
+}
+
+.tenor-gif-embed{
+	width:600px;
+	height: 500px;
+	padding-left: 350px;
+
+}
+
+.main {
+	display: flex;
+	padding-left: 50px;
+}
+.bx1{
+	width:400px;
+	height: 300px;
+	margin:10px;
+	background-color: #8d99ae;
+	font-size: 22px;
+	border: 2px solid #000814;
+}
+.bx2{
+	width:400px;
+	height: 300px;
+	margin:10px;
+}
+
+.bx3{
+	width:400px;
+	height: 300px;
+	margin:10px;
+	background-color: #8d99ae;
+	font-size: 22px;
+	border: 2px solid #000814;
+}
